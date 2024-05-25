@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ul {
+    display: flex;
+    gap: 10px;
+}
+ul li {
+    list-style-type: none;
+   
+}
+ table ,th  {
+    border: 1px solid black;
+    border-collapse:collapse ;
+ }
